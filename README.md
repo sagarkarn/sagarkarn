@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-<a href="www.facebook.com/samsagar7923">find me on on facebook </a>
-
+<a href="www.facebook.com/samsagar7923">find me on facebook </a>
+<a href="www.twitter.com/sagarkarn2">find me on twitter </a>
+<a href="www.instagram.com/sagarkarn">find me on instagram</a>
 
 
 <!--
